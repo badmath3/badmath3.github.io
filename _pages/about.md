@@ -17,3 +17,4 @@ Excuse the errors/unchanged template items, website is still under construction.
 
 Websites of some cool people: 
 * [Michael Barz](https://michael.dog/)
+* [Ben Lowe](https://loweb24.github.io/)
