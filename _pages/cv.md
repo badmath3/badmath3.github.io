@@ -12,13 +12,16 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, Georgia Institute of Technology, 2030 (expected)
-* B.S. in Mathematics, University of Chicago, 2025 (expected). 
+* B.S. in Mathematics (with honors), University of Chicago, 2025.  
 
 Work experience
 ======
+* Summer 2025 - Quantitative Research Intern (Octus)
+  * Worked on linear-programming-based trade suggestion optimizer for managing CLO portfolios. 
+  * Developed and tested incremental trading functionality, designed an LP problem generation algorithm.
+
 * Fall 2020 - Spring 2023: Private Math Tutor
   * Tutored middle/high school students in K-12 math. 
-  * Email me if you're interested in being tutored in K-12/competition math.
   
 <!-- Skills
 ======

@@ -8,13 +8,11 @@ redirect_from:
 ---
 
 
-I am Raman Aliakseyeu, an incoming Ph.D student in Mathematics at Georgia Tech. Currently I am finishing up my undergraduate degree at the University of Chicago.  
-
-
-I am currently interested broadly in geometry and topology. I will probably settle on some area in differential geometry or low-dimensional topology. 
+I am Raman Aliakseyeu, a first-year Ph.D student in Mathematics at Georgia Tech. I am currently interested broadly in geometry and topology. 
 
 Excuse the errors/unchanged template items, website is still under construction. 
 
 Websites of some cool people: 
 * [Michael Barz](https://michael.dog/)
 * [Ben Lowe](https://loweb24.github.io/)
+* [Mike Wolf](https://mwolf40.math.gatech.edu/)
